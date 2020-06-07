@@ -2,5 +2,5 @@
 tata letak : judul slide
 : "Selamat dtangdi slide kedua! "
 ---
-Teks Anda
+Semoga hari mu menyenangan
 Gunakan anak panah untuk kembali!
